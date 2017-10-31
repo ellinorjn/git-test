@@ -5,6 +5,13 @@
     <title>My title</title>
 </head>
 <body>
+   
+   <form action="">
+        <h3>Form</h3>
+       <input type="text">
+       <input type="text">
+       <input type="text">
+   </form>
     
 </body>
 </html>
