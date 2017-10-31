@@ -7,7 +7,7 @@
 <body>
    
    <form action="">
-       <h1>formy</h1>
+       <h1>form</h1>
        <input type="text">
        <input type="text">
        <input type="text">
